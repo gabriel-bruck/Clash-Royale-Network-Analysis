@@ -1,5 +1,5 @@
 # 📊 Visualização do Projeto
-[Clique aqui para abrir o Grafo Interativo](./index.html)
+[Clique aqui para abrir o Grafo Interativo](https://gabriel-bruck.github.io/Clash-Royale-Network-Analysis/)
 
 ## 🧠 A Lógica do Projeto
 
