@@ -21,7 +21,7 @@ Demonstrar as possibilidades da biblioteca NetworkX para criação e modelagem d
 
 | Ferramenta | Aplicação |
 | :--- | :--- |
-| **Pandas** | Estruturação e limpeza dos dados crus vindos da API. |
+| **Pandas** | Estruturação e limpeza dos dados crus |
 | **NetworkX** | Motor de Teoria dos Grafos para calcular métricas de centralidade. |
 | **Scikit-learn** | Implementação do agrupamento **K-Means** e validação de clusters. |
 | **Plotly** | Engine de visualização para gerar gráficos interativos com Zoom e Hover. |
