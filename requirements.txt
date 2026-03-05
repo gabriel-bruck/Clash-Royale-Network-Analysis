@@ -1,0 +1,6 @@
+pandas
+networkx
+numpy
+scikit-learn
+plotly
+nbformat>=4.2.0
