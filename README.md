@@ -14,7 +14,7 @@ Demonstrar as possibilidades da biblioteca NetworkX para criação e modelagem d
 * **Extração:**  Utilizei os  **30 decks** com as maiores taxas de vitória (*Win Rate*) do cenário atual segundo site Royale Api, raspagem de dados feita anteriormente.
 * **Criandos as ligações:** Se a **Carta A** e a **Carta B** aparecem no mesmo deck, o código estabelece uma **Aresta (ligação)** entre elas.
 * **Peso de Conexão:** Quanto mais vezes o par de cartas aparece nos Top 30, maior o "peso" da ligação, indicando sinergias (combos).
-* **Clusterização (K-Means):** O algoritmo de *Machine Learning* agrupa automaticamente cartas que compartilham os mesmos "parceiros", revelando gruposs como *Log-Bait*
+* **Clusterização (K-Means):** O algoritmo de *Machine Learning* agrupa automaticamente cartas que compartilham os mesmos "parceiros", revelando grupos como *Log-Bait*
 
 ---
 
@@ -32,7 +32,7 @@ Demonstrar as possibilidades da biblioteca NetworkX para criação e modelagem d
 
 ## 📊 Anatomia do Grafo
 
-A visualização final utiliza elementos visuais para traduzir dados estatísticos complexos:
+A visualização final utiliza dos seguintes elementos para traduzir os dados estatísticos complexos:
 
 * **⭕ Nós (Vértices):** Representam as cartas individuais. O **tamanho** do círculo é proporcional à sua popularidade (frequência) no meta.
 * **🔗 Linhas (Arestas):** Representam a sinergia. **Linhas mais grossas** indicam "combos" obrigatórios que definem o meta-jogo.
