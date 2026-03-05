@@ -1,4 +1,5 @@
-
+# 📊 Visualização do Projeto
+[Clique aqui para abrir o Grafo Interativo](./index.html)
 
 ## 🧠 A Lógica do Projeto
 
