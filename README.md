@@ -6,7 +6,7 @@ O diferencial desta análise é a **transformação de Decks (Listas)** em **Rel
 
 ## OBJETIVO
 
-Demonstrar as possibilidades da biblioteca NetworkX para criação e modelagem de grapho.
+Demonstrar as possibilidades da biblioteca NetworkX para criação e modelagem de grafo.
 
 
 ### 🔄 Fluxo de Processamento
